@@ -14,5 +14,7 @@ This extension helps automate it, so you don't need to check the clock every tim
 3) Toggle on 'Developer mode' in the top-right corner.
  ![image1]
 4) Now click the 'Load Unpacked' button in the top-left corner.
+  ![image2](https://github.com/silent-eyes18/20-20-20-chrome-extension/blob/main/Readme%20imgs/Capture1.PNG)
+
 5) Select the 20-20-20 Folder from the extracted location and click 'open folder'.
 6) Happy browsing  &#127881;
