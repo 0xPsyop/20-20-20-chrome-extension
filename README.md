@@ -8,8 +8,11 @@ This extension helps automate it, so you don't need to check the clock every tim
 ## Installation Guide ⬇️
 
 1) Download the files as a .zip file and extract the folder ( know the extracted location ).
+ ![image1](https://github.com/silent-eyes18/20-20-20-chrome-extension/blob/main/Readme%20imgs/Capture.PNG)
+ 
 2) Go to Chrome and open the 'Extensions' tab ( chrome://extensions/ ).
 3) Toggle on 'Developer mode' in the top-right corner.
+ ![image1]
 4) Now click the 'Load Unpacked' button in the top-left corner.
 5) Select the 20-20-20 Folder from the extracted location and click 'open folder'.
 6) Happy browsing  &#127881;
