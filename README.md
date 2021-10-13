@@ -15,7 +15,7 @@ This extension helps automate it, so you don't need to check the clock every tim
  
      ![image1](https://github.com/silent-eyes18/20-20-20-chrome-extension/blob/main/Readme%20imgs/Capture2.PNG)
 
-4) Now click the 'Load Unpacked' button in the top-left corner.
+4) Now click the 'Load unpacked' button in the top-left corner.
   ![image2](https://github.com/silent-eyes18/20-20-20-chrome-extension/blob/main/Readme%20imgs/Capture1.PNG)
 
 5) Select the 20-20-20 Folder from the extracted location and click 'open folder'.
